@@ -54,6 +54,7 @@ const rest = () => {
                 password: data.data.password
             }
         })
+        
     })
 }
 
